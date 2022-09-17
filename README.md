@@ -1,2 +1,3 @@
 # javaIntro
-Introduçãodos alunos ao java
+Introdução dos alunos ao java
+Introduction of my students to Java Language
