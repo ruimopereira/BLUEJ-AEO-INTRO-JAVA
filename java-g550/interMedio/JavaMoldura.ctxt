@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=JavaMoldura
+comment1.params=
+comment1.target=JavaMoldura()
+comment1.text=\r\n\ Create\ the\ frame.\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
