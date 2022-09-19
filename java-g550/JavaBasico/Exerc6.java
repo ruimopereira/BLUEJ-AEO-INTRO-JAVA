@@ -1,6 +1,6 @@
 package JavaBasico;
 /**
- * Escrever um programa em que leia dais valores para as variáveis A e B, 
+ * Escrever um programa em que leia dis valores para as variáveis A e B, 
  * e efetuar as trocas dos valores de forma que a variável A passe a possuir o valor da variável B 
  * e a variável B passe a possuir o valor da variável A. Apresentar os valores trocados.
  * Lembrando que temos de ter 3 variáveis para que uma haja uma como a variável de armazenamento, 
